@@ -17,7 +17,6 @@ The Bike Counters App is a Streamlit-based application that visualizes bike coun
 ## Features
 
 - Interactive data visualization
-- Real-time data updates
 - Historical data analysis
 - User-friendly interface
 
