@@ -39,11 +39,11 @@ To install and run the Bike Counters App, follow these steps:
     pip install -r requirements.txt
     ```
 
-    4. Alternatively, you can run the application using Docker:
-        ```bash
-        docker build -t bike-counters-app .
-        docker run -p 8501:8501 bike-counters-app
-        ```
+4. Alternatively, you can run the application using Docker:
+    ```bash
+    docker build -t bike-counters-app .
+    docker run -p 8501:8501 bike-counters-app
+    ```
 
 ## Usage
 
