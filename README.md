@@ -39,9 +39,9 @@ To install and run the Bike Counters App, follow these steps:
     pip install -r requirements.txt
     ```
 4. To start the application, run the following command:
-```bash
-streamlit run app.py
-```
+    ```bash
+    streamlit run app.py
+    ```
 
 Alternatively, you can run the application using Docker:
     ```bash
