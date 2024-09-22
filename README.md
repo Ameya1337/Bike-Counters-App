@@ -8,7 +8,6 @@ Welcome to the Bike Counters App project! This application is designed to provid
 - [Features](#features)
 - [Installation](#installation)
 - [Usage](#usage)
-- [Contributing](#contributing)
 - [License](#license)
 
 ## Introduction
