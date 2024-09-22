@@ -9,10 +9,10 @@ import plotly.express as px
 # Load your dataset
 @st.cache_data
 def load_data():
-    data = pd.read_csv("Data/predictions.csv")  # Replace with your actual dataset
+    data = pd.read_csv("Data/predictions.csv") 
     data["date"] = pd.to_datetime(
         data["date"]
-    )  # Ensure 'date' column is in datetime format
+    ) 
     return data
 
 
